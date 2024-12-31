@@ -1,11 +1,10 @@
-package com.therohitsahu.Selenium_Locators;
+package com.therohitsahu.ex05_Selenium_Locators;
 import io.qameta.allure.Description;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.edge.EdgeDriver;
 import org.openqa.selenium.edge.EdgeOptions;
-import org.testng.Assert;
 import org.testng.annotations.Test;
 
 public class TestSelenium18 {
